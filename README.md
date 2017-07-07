@@ -1,5 +1,5 @@
 # BLAST-Mapper
-A iPython notebook containing code for plotting BLAST hit position across multiple genomes using the [Bokeh](http://bokeh.pydata.org/en/latest/) plotting library.
+An iPython notebook containing code for plotting BLAST hit position across multiple genomes using the [Bokeh](http://bokeh.pydata.org/en/latest/) plotting library.
 
 **Overview:**
 
@@ -11,7 +11,7 @@ A iPython notebook containing code for plotting BLAST hit position across multip
   
   ![Example Publcation Image](https://raw.githubusercontent.com/LeeBergstrand/BLAST-Mapper/master/F4.large.jpg)
 
-This notebook is basically a demo and need to be turned into a proper library.
+This notebook is basically a demo and needs to be turned into a proper library.
 
 **Known Issues:**
 
